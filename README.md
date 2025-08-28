@@ -33,6 +33,7 @@ tic-tac-toe/
 - **JavaScript (ES6)**
   
 ## 📸 Screenshot
+<img width="1107" height="746" alt="image" src="https://github.com/user-attachments/assets/d498f0fc-dc5a-49cb-ad71-58c832a362bc" />
 
 ---
 

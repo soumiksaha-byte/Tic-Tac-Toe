@@ -1,0 +1,28 @@
+.btn {
+    height:100px;
+    width: 100px;
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.1);
+    color: #e2dbbe;
+    font-size: 60px;
+    background-color:#769EB5;
+
+}
+.reset {
+    height: 30px;
+    width: 90px;
+    border-radius: 1rem;
+}
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 100px); /* 3 columns */
+  grid-template-rows: repeat(3, 100px);    /* 3 rows */
+  gap: 5px; /* spacing between buttons */
+  justify-content: center;
+  margin: 20px auto;
+}
+
+body{
+    background-color: #188fa7;
+    text-align: center;
+}
